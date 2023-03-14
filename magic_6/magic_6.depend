@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1678222226 source:d:\prog_course\iti_3_months\oop\labs\day_2\task_lec\magic_6\magic_6\main.cpp
+	<iostream>
+	<windows.h>
+
